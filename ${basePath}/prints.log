@@ -1,0 +1,52 @@
+12:14:16.162 [TestNG-tests-5] INFO  tests.LoginTest - loginoption is clicked
+12:14:17.719 [TestNG-tests-4] INFO  tests.LoginTest2 - clicked on on my Account dropdown
+12:14:19.292 [TestNG-tests-5] INFO  tests.LoginTest - username is entered 
+12:14:19.375 [TestNG-tests-5] INFO  tests.LoginTest - password is entered 
+12:14:21.183 [TestNG-tests-4] INFO  tests.LoginTest2 - clicked on login option
+12:14:21.294 [TestNG-tests-4] INFO  tests.LoginTest2 - emailAddress  got entered
+12:14:21.399 [TestNG-tests-4] INFO  tests.LoginTest2 - password  got entered
+12:14:22.847 [TestNG-tests-5] INFO  tests.LoginTest - click on  loginButton 
+12:14:24.886 [TestNG-tests-4] INFO  tests.LoginTest2 - Clicked on Login button
+12:14:24.968 [TestNG-tests-4] INFO  tests.LoginTest2 - user  got logged in
+12:14:24.968 [TestNG-tests-4] INFO  tests.LoginTest2 - login test  got passed
+12:14:25.120 [TestNG-tests-4] INFO  tests.LoginTest2 - browser got closed
+12:14:26.026 [TestNG-tests-5] INFO  tests.LoginTest - succesfully logined to yourstore page
+12:14:26.394 [TestNG-tests-4] INFO  tests.LoginTest2 - browser got launched
+12:14:27.571 [TestNG-tests-4] INFO  tests.LoginTest2 - clicked on on my Account dropdown
+12:14:30.871 [TestNG-tests-4] INFO  tests.LoginTest2 - clicked on login option
+12:14:30.994 [TestNG-tests-4] INFO  tests.LoginTest2 - emailAddress  got entered
+12:14:31.089 [TestNG-tests-4] INFO  tests.LoginTest2 - password  got entered
+12:14:34.532 [TestNG-tests-4] INFO  tests.LoginTest2 - Clicked on Login button
+12:14:44.614 [TestNG-tests-4] INFO  tests.LoginTest2 - user  didn't  log in
+12:14:44.614 [TestNG-tests-4] INFO  tests.LoginTest2 - login test  got passed
+12:14:44.760 [TestNG-tests-4] INFO  tests.LoginTest2 - browser got closed
+12:26:05.221 [TestNG-tests-4] INFO  tests.LoginTest2 - browser got launched
+12:26:08.539 [TestNG-tests-4] INFO  tests.LoginTest2 - clicked on on my Account dropdown
+13:04:15.523 [TestNG-tests-1] INFO  tests.LoginTest2 - browser got launched
+13:04:16.958 [TestNG-tests-2] INFO  tests.LoginTest - MyAccount is clicked
+13:04:17.271 [TestNG-tests-2] INFO  tests.LoginTest - loginoption is clicked
+13:04:18.481 [TestNG-tests-1] INFO  tests.LoginTest2 - clicked on on my Account dropdown
+13:04:20.437 [TestNG-tests-2] INFO  tests.LoginTest - username is entered 
+13:04:20.531 [TestNG-tests-2] INFO  tests.LoginTest - password is entered 
+13:04:21.804 [TestNG-tests-1] INFO  tests.LoginTest2 - clicked on login option
+13:04:21.938 [TestNG-tests-1] INFO  tests.LoginTest2 - emailAddress  got entered
+13:04:22.042 [TestNG-tests-1] INFO  tests.LoginTest2 - password  got entered
+13:04:23.986 [TestNG-tests-2] INFO  tests.LoginTest - click on  loginButton 
+13:04:25.684 [TestNG-tests-1] INFO  tests.LoginTest2 - Clicked on Login button
+13:04:25.762 [TestNG-tests-1] INFO  tests.LoginTest2 - user  got logged in
+13:04:25.771 [TestNG-tests-1] INFO  tests.LoginTest2 - login test  got passed
+13:04:25.933 [TestNG-tests-1] INFO  tests.LoginTest2 - browser got closed
+13:04:27.072 [TestNG-tests-2] INFO  tests.LoginTest - succesfully logined to yourstore page
+13:04:27.129 [TestNG-tests-1] INFO  tests.LoginTest2 - browser got launched
+13:04:27.990 [TestNG-tests-1] INFO  tests.LoginTest2 - clicked on on my Account dropdown
+13:04:31.253 [TestNG-tests-1] INFO  tests.LoginTest2 - clicked on login option
+13:04:31.384 [TestNG-tests-1] INFO  tests.LoginTest2 - emailAddress  got entered
+13:04:31.474 [TestNG-tests-1] INFO  tests.LoginTest2 - password  got entered
+13:04:34.833 [TestNG-tests-1] INFO  tests.LoginTest2 - Clicked on Login button
+13:04:44.911 [TestNG-tests-1] INFO  tests.LoginTest2 - user  didn't  log in
+13:04:44.911 [TestNG-tests-1] INFO  tests.LoginTest2 - login test  got passed
+13:04:45.014 [TestNG-tests-1] INFO  tests.LoginTest2 - browser got closed
+13:08:14.920 [TestNG-tests-1] INFO  tests.LoginTest2 - browser got launched
+13:08:17.629 [TestNG-tests-2] INFO  tests.LoginTest - MyAccount is clicked
+13:08:17.893 [TestNG-tests-2] INFO  tests.LoginTest - loginoption is clicked
+13:08:18.499 [TestNG-tests-1] INFO  tests.LoginTest2 - clicked on on my Account dropdown
